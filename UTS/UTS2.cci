@@ -1,0 +1,6 @@
+VERSION:3 SOURCE_TIMESTAMP:4F42753C
+NODE:I LEVEL:0 LINE:23 "C:\cvavr\inc\mega8535.h"
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\stdio.h"
+NODE:F LEVEL:0 LINE:28 "angka(int bilangan)"
+NODE:F LEVEL:0 LINE:38 "main(void)"

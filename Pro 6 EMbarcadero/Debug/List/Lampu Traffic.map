@@ -1,0 +1,23 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0003A     76
+getchar                                                                           0x00086      4
+get_usart_G100                                                                    0x0008A     22
+_scanf_G100                                                                       0x000A0    284
+scanf                                                                             0x001BC     28
+isdigit                                                                           0x001D8      9
+isspace                                                                           0x001E1     11
+isxdigit                                                                          0x001EC     15

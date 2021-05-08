@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/10/01 21.00.00.000.216,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/10/01 22.00.00.000.654,C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/10/09 09.00.00.000.302,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/21 14.00.00.000.354,C:\Users\User\Documents\#UNSRI7\Unit2.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/21 14.00.00.000.680,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/08/21 14.00.00.000.354,C:\Users\User\Documents\#UNSRI7\Unit2.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2019/08/21 14.00.00.000.536,C:\Users\User\Documents\#UNSRI7\Project1.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/08/21 15.00.00.000.459,C:\Users\User\Documents\#UNSRI7\Unit2.pas=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Unit2.pas</Transaction>
+    <Transaction>2019/08/21 15.00.00.000.090,C:\Users\User\Documents\#UNSRI7\Project1.dproj=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Project1.dproj</Transaction>
+    <Transaction>2019/08/21 15.00.00.000.459,C:\Users\User\Documents\#UNSRI7\Unit2.dfm=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Unit2.dfm</Transaction>
+    <Transaction>2019/09/04 14.00.00.000.437,C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Bit.dproj=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Project1.dproj</Transaction>
+    <Transaction>2019/09/04 14.00.00.000.178,C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Bit.dfm=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Unit2.dfm</Transaction>
+    <Transaction>2019/09/04 14.00.00.000.178,C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Bit.pas=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro1\Unit2.pas</Transaction>
+    <Transaction>2019/09/04 15.05.35.799,C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Bit.pas=</Transaction>
+    <Transaction>2019/09/04 15.06.29.218,=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Unit1.pas</Transaction>
+    <Transaction>2019/09/04 15.07.11.587,=C:\Users\User\Documents\#UNSRI7\A&amp;P\Pro 2 EMbarcadero\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

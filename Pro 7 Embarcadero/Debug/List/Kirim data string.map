@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+main                                                                              0x0003B     73
+putchar                                                                           0x00084      7
+put_usart_G100                                                                    0x0008B     12
+_print_G100                                                                       0x00097    279
+printf                                                                            0x001AE     32
+strlen                                                                            0x001CE     11
+strlenf                                                                           0x001D9     12

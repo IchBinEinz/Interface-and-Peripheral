@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"pertemuan 2.c" LINE:31
+scanf DSTACK_USAGE:7 DSTACK_LEVEL:7 FILE:"..\..\..\App\cvavreval\lib\stdio.lib" LINE:1825
+_scanf DSTACK_USAGE:19 DSTACK_LEVEL:26 FILE:"..\..\..\App\cvavreval\lib\stdio.lib" LINE:1560
+isspace DSTACK_USAGE:1 DSTACK_LEVEL:27 FILE:"..\..\..\App\cvavreval\lib\ctype.lib" LINE:153
